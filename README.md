@@ -6,7 +6,7 @@ Demonstrates cloud migration of a web application from Local Machine to AWS envi
 
 This project showcases the deployment of a production-ready multi-tier web application (**CloudProfile**) from a local environment (Vagrant-based) to **AWS Cloud** using a **lift and shift strategy**. 
 
-![alt text](Architecture.png)
+![alt text](<CloudProfile Architecture.png>)
 
 It uses services like EC2, Load Balancer, Auto Scaling, RDS, VPC, along with automation scripts for setup and configuration. The goal is to make the application cloud-ready, scalable, and manageable without upfront infrastructure costs.
 
