@@ -11,7 +11,7 @@ This project showcases the deployment of a production-ready multi-tier web appli
 It uses services like EC2, Load Balancer, Auto Scaling, RDS, VPC, along with automation scripts for setup and configuration. The goal is to make the application cloud-ready, scalable, and manageable without upfront infrastructure costs.
 
 
-**🛠️ Services Used:**
+**🛠️: Services Used:**
 
 - **EC2 Instances:** Tomcat, MySQL, RabbitMQ, Memcache  
 - **Application Load Balancer (ALB)**  
