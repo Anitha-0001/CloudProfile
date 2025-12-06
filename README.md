@@ -1,6 +1,6 @@
 # 🚀 AWS DevStack Deploy (CloudProfile Application)
 
-Demonstrates cloud migration of a web application from Local Machine to AWS environment.
+This project demonstrates migrating a web application from a local setup to AWS,covering environment preparation, service provisioning, application deployment, and data transfer. It highlights how a local app can be transformed into a scalable and reliable cloud-hosted solution using AWS best practices.
 
 ## 📌 Project Overview
 
